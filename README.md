@@ -185,8 +185,8 @@ This module is built purely for **educational and awareness purposes** as part o
 
 * **Name:** Balamurugan S
 * **Internship:** CodeAlpha Cybersecurity Internship
-* **LinkedIn:** \[Your LinkedIn Profile]
-* **GitHub:** \[Your GitHub Profile]
+* **LinkedIn:** https://www.linkedin.com/in/balamurugan-s-468387337?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* **GitHub:** https://github.com/Balamurugan200526/CodeAlpha-Task-2.git
 
 \---
 
