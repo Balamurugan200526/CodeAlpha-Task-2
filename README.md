@@ -13,7 +13,6 @@ An interactive **Phishing Awareness Training Web Module** built using HTML, CSS,
 * [Sections Covered](#sections-covered)
 * [Technologies Used](#technologies-used)
 * [How to Run](#how-to-run)
-* [Screenshots](#screenshots)
 * [Quiz Details](#quiz-details)
 * [What I Learned](#what-i-learned)
 
